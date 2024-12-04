@@ -2,7 +2,7 @@
 
 :fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:
 
-Welcome to stars ⭐ & comments 💹 & sharing 😀 !!
+Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 ---
 ### Contents
 - [General Works](#general-works)
