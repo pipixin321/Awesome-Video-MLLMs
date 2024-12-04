@@ -5,19 +5,24 @@
 Welcome to stars ⭐ & comments 💹 & sharing 😀 !!
 ---
 ### Contents
-- [Methods](#awesome-methods)
+- [General Works](#general-works)
+- [Interesting Works](#interesting-works)
 - [Evaluation](#awesome-benchmarks)
 ---
 
 <!-- |![Star](https://img.shields.io/github/stars/xxx.svg?style=social&label=Star) <br> |-|-| [Github]() | - | -->
-### Awesome MLLMs
+#### General Works
 |  Title  |   Venue  |   Date   |   Code   |   Frames   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/rhymes-ai/Aria.svg?style=social&label=Star) <br> [**ARIA : An Open Multimodal Native Mixture-of-Experts Model**](https://arxiv.org/pdf/2410.05993) |arXiv|2024-10| [Github](https://github.com/rhymes-ai/Aria) | 256 |
 |![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191)|arXiv|2024-10| [Github](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file) | 768(2fps) |
 |![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Star) <br> [**LLaVA-Video: Video Instruction Tuning With Synthetic Data**](https://arxiv.org/abs/2410.02713)|arXiv|2024-10| [Github](https://llava-vl.github.io/blog/2024-09-30-llava-video/) | 64 |
 |![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) <br> [**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**](https://arxiv.org/abs/2410.17434)|arXiv|2024-10| [Github](https://github.com/Vision-CAIR/LongVU) | 1FPS |
+|![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star) <br> [**MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone**](https://arxiv.org/abs/2408.01800)|arXiv|2023-08| [Github](https://github.com/OpenBMB/MiniCPM-V) | 64 |
 |![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star) <br> [**mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models**](https://arxiv.org/abs/2408.04840) |arXiv|2024-08| [Github](https://github.com/X-PLUG/mPLUG-Owl) | 128 |
 |![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL2: Better than the Best—Expanding Performance Boundaries of Open-Source Multimodal Models with the Progressive Scaling Strategy**](https://internvl.github.io/blog/2024-07-02-InternVL-2.0/)|blog|2024-07| [Github](https://github.com/OpenGVLab/InternVL) | 16 |
+|![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star) <br> [**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/abs/2406.07476) |arXiv|2024-06| [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | 32 |
+|![Star](https://img.shields.io/github/stars/ShareGPT4Omni/ShareGPT4Video.svg?style=social&label=Star) <br>  [**ShareGPT4Video: Improving video understanding and generation with better captions**](https://arxiv.org/abs/2406.04325)|arXiv|2024-06| [Github](https://github.com/ShareGPT4Omni/ShareGPT4Video) | 16 |
 |![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVA.svg?style=social&label=Star) <br> [**LongVA: Long context transfer from language to vision**](https://arxiv.org/abs/2406.16852)|arXiv|2024-06| [Github](https://github.com/EvolvingLMMs-Lab/LongVA) | 1FPS |
 |![Star](https://img.shields.io/github/stars/ziplab/LongVLM.svg?style=social&label=Star) <br> [**LongVLM: Efficient long video understanding via large language models**](https://arxiv.org/abs/2404.03384)|ECCV|2024-04| [Github](https://github.com/ziplab/LongVLM) | 100 |
 |![Star](https://img.shields.io/github/stars/NVlabs/VILA.svg?style=social&label=Star) <br> [**VILA: On Pre-training for Visual Language Models**](https://arxiv.org/abs/2312.07533)|CVPR|2023-12| [Github](https://github.com/NVlabs/VILA) | 8 |
@@ -32,6 +37,13 @@ Welcome to stars ⭐ & comments 💹 & sharing 😀 !!
 |![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star) <br> [**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858)|EMNLP|2023-06| [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 8 |
 |![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star) <br> [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355) |arXiv|2023-05| [Github](https://github.com/OpenGVLab/Ask-Anything) | 4~32 |
 |![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) <br> [**LLaMA-Adapter: Efficient Fine-tuning of LLaMA**](https://arxiv.org/pdf/2303.16199) |ICLR|2023-03| [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | - |
+
+### Interesting Works
+|  Title  |   Venue  |   Date   |   Code   |   Frames   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/xxx.svg?style=social&label=Star) <br> [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**](https://arxiv.org/pdf/2411.19951)|arXiv|2024-12| [Github](https://github.com/xjtupanda/T2Vid) | - |
+| [**Streaming long video understanding with large language models**](https://www.arxiv.org/abs/2405.16009)|arXiv|2024-05| - | 16(Streaming) |
+
 
 ### Awesome Benchmarks for Evaluation
 #### [:bar_chart: Opencomprass Leaderboard](https://huggingface.co/spaces/opencompass/openvlm_video_leaderboard)
