@@ -1,8 +1,8 @@
-# Awesome-Video-Multimodal-Large-Language-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Awesome MLLM](https://img.shields.io/badge/awesome-video_mllms-blue)](https://github.com/topics/awesome)
+# Awesome-Video-Multimodal-Large-Language-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome MLLM](https://img.shields.io/badge/awesome-video_mllms-blue)](https://github.com/topics/awesome)
 
 :fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:
 
-Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
+Welcome to stars ⭐ & comments 💹 & sharing 😀 !!
 ---
 ### Contents
 - [Methods](#awesome-methods)
