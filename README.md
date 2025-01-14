@@ -7,7 +7,8 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 ---
 ### Contents
 - [General Works](#general-works)
-- [Interesting Works](#interesting-works)
+- [Streaming Videos](#streaming-videos)
+- [Others](#interesting-works)
 - [Evaluation](#benchmarks-for-evaluation)
 ---
 
@@ -15,6 +16,7 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 #### General Works
 |  Title  |   Venue  |   Date   |   Code   |   Frames   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Apollo: An Exploration of Video Understanding in Large Multimodal Models**](https://arxiv.org/pdf/2412.10360)|arXiv|2024-12| - | - |
 |![Star](https://img.shields.io/github/stars/TimeMarker-LLM/TimeMarker.svg?style=social&label=Star) <br> [**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**](https://arxiv.org/pdf/2411.18211)|arXiv|2024-11| [Github](https://github.com/TimeMarker-LLM/TimeMarker) | 128 |
 |![Star](https://img.shields.io/github/stars/rhymes-ai/Aria.svg?style=social&label=Star) <br> [**ARIA : An Open Multimodal Native Mixture-of-Experts Model**](https://arxiv.org/pdf/2410.05993) |arXiv|2024-10| [Github](https://github.com/rhymes-ai/Aria) | 256 |
 |![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191)|arXiv|2024-10| [Github](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file) | 768(2fps) |
@@ -40,11 +42,20 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 |![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star) <br> [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355) |arXiv|2023-05| [Github](https://github.com/OpenGVLab/Ask-Anything) | 4~32 |
 |![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) <br> [**LLaMA-Adapter: Efficient Fine-tuning of LLaMA**](https://arxiv.org/pdf/2303.16199) |ICLR|2023-03| [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | - |
 
+#### Streaming Videos
+|  Title  |   Venue  |   Date   |   Code   |   Frames   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/JoeLeelyf/OVO-Bench.svg?style=social&label=Star) <br>[**[Benchmark] OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**](https://arxiv.org/pdf/2501.05510) |arXiv|2025-01| [Github](https://github.com/JoeLeelyf/OVO-Bench) | Streaming |
+|![Star](https://img.shields.io/github/stars/Mark12Ding/Dispider.svg?style=social&label=Star) <br>[**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**](https://arxiv.org/pdf/2501.03218) |arXiv|2025-01| [Github](https://github.com/Mark12Ding/Dispider) | Streaming |
+|![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br>[**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**](https://arxiv.org/pdf/2501.01957) |arXiv|2025-01| [Github](https://github.com/VITA-MLLM/VITA) | Streaming |
+| [**Streaming long video understanding with large language models**](https://www.arxiv.org/abs/2405.16009)|arXiv|2024-05| - | 16(Streaming) |
+
+
 #### Interesting Works
 |  Title  |   Venue  |   Date   |   Code   |   Frames   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/xjtupanda/T2Vid.svg?style=social&label=Star) <br> [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**](https://arxiv.org/pdf/2411.19951)|arXiv|2024-12| [Github](https://github.com/xjtupanda/T2Vid) | - |
-| [**Streaming long video understanding with large language models**](https://www.arxiv.org/abs/2405.16009)|arXiv|2024-05| - | 16(Streaming) |
+
 
 
 ### Benchmarks for Evaluation
