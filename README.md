@@ -1,7 +1,8 @@
 # Awesome-Video-Multimodal-Large-Language-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome MLLM](https://img.shields.io/badge/awesome-video_mllms-blue)](https://github.com/topics/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/pipixin321/Awesome-Video-MLLMs)
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=📹Awesome-Video-MLLM&text2=Video%20💖%20Large%20Language%20Model&width=800&height=210)](https://github.com/Akshay090/svg-banners)
-🔥 Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding
+
+🔥🔥🔥 Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding
 
 Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 ---
