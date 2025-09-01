@@ -14,8 +14,18 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 
 <!-- |![Star](https://img.shields.io/github/stars/xxx.svg?style=social&label=Star) <br> |-|-| [Github]() | - | -->
 #### General Works
-|  Title  |   Venue  |   Date   |   Code   |   Frames   |
+|  Title  |   Venue  |   Date   |   Code   |   Frames/FPS   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency**](https://arxiv.org/pdf/2508.18265) | arXiv | 2025-08 | [Github](https://github.com/OpenGVLab/InternVL) | - |
+| **MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone** | - | 2025-08 | [Github](https://github.com/OpenBMB/MiniCPM-o) | 10fps |
+| [**GLM-4.5V**](https://docs.bigmodel.cn/cn/guide/models/vlm/glm-4.5v) | Zhipu AI | 2025-08 | [API](https://open.bigmodel.cn/dev/api#glm-4-5v) | - |
+| [**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) | Google | 2025-06 | - | - |
+| [**ERNIE 4.5**](https://yiyan.baidu.com/blog/posts/ernie4.5) | Baidu | 2025-06 | [Github](https://github.com/PaddlePaddle/ERNIE) | - |
+| [**Seed1.5-VL Technical Report**](https://arxiv.org/pdf/2505.07062) | arXiv | 2025-05 | - | - |
+|![Star](https://img.shields.io/github/stars/quicksviewer/quicksviewer.svg?style=social&label=Star) <br> [**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**](https://arxiv.org/pdf/2504.15270) | arXiv | 2025-04 | [Github](https://github.com/quicksviewer/quicksviewer) | - |
+|![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**](https://arxiv.org/abs/2504.10479) | arXiv | 2025-04 | [Github](https://github.com/OpenGVLab/InternVL) | - |
+|![Star](https://img.shields.io/github/stars/VITA-MLLM/Long-VITA.svg?style=social&label=Star) <br> [**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**](https://arxiv.org/pdf/2502.05177) | arXiv | 2025-02 | [Github](https://github.com/VITA-MLLM/Long-VITA) | - |
+|![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star) <br> [**Qwen2.5-VL Technical Report**](https://arxiv.org/pdf/2502.13923) | arXiv | 2025-02| [Github](https://github.com/QwenLM/Qwen2.5-VL) | - |
 | [**Apollo: An Exploration of Video Understanding in Large Multimodal Models**](https://arxiv.org/pdf/2412.10360)|arXiv|2024-12| - | - |
 |![Star](https://img.shields.io/github/stars/TimeMarker-LLM/TimeMarker.svg?style=social&label=Star) <br> [**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**](https://arxiv.org/pdf/2411.18211)|arXiv|2024-11| [Github](https://github.com/TimeMarker-LLM/TimeMarker) | 128 |
 |![Star](https://img.shields.io/github/stars/rhymes-ai/Aria.svg?style=social&label=Star) <br> [**ARIA : An Open Multimodal Native Mixture-of-Experts Model**](https://arxiv.org/pdf/2410.05993) |arXiv|2024-10| [Github](https://github.com/rhymes-ai/Aria) | 256 |
@@ -54,6 +64,7 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 #### Interesting Works
 |  Title  |   Venue  |   Date   |   Code   |   Frames   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/VITA-MLLM/Sparrow.svg?style=social&label=Star) <br> [**Sparrow: Data-Efficient Video-LLM with Text-to-Image Augmentation**](https://arxiv.org/pdf/2411.19951) | arXiv | 2025-03 | [Github](https://github.com/VITA-MLLM/Sparrow) | - |
 |![Star](https://img.shields.io/github/stars/xjtupanda/T2Vid.svg?style=social&label=Star) <br> [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**](https://arxiv.org/pdf/2411.19951)|arXiv|2024-12| [Github](https://github.com/xjtupanda/T2Vid) | - |
 
 
