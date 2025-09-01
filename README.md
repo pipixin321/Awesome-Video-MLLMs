@@ -7,10 +7,10 @@
 Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 ---
 ### 📖 Contents
-- [🚀 General Works](#-general-works)
-- [📺 Streaming Videos](#-streaming-videos)
-- [💡 Interesting Works](#-interesting-works)
-- [📊 Evaluation](#-benchmarks-for-evaluation)
+- [🚀 General Works](#general-works)
+- [📺 Streaming Videos](#streaming-videos)
+- [💡 Interesting Works](#interesting-works)
+- [📊 Evaluation](#benchmarks-for-evaluation)
 ---
 
 <!-- |![Star](https://img.shields.io/github/stars/xxx.svg?style=social&label=Star) <br> |-|-| [Github]() | - | -->
