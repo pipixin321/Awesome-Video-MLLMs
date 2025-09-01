@@ -1,15 +1,15 @@
 # Awesome-Video-Multimodal-Large-Language-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome MLLM](https://img.shields.io/badge/awesome-video_mllms-blue)](https://github.com/topics/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/pipixin321/Awesome-Video-MLLMs)
 
-
-:fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=📹Awesome-Video-MLLM&text2=Video%20💖%20Large%20Language%20Model&width=800&height=210)](https://github.com/Akshay090/svg-banners)
+🔥 Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding
 
 Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 ---
-### Contents
-- [General Works](#general-works)
-- [Streaming Videos](#streaming-videos)
-- [Others](#interesting-works)
-- [Evaluation](#benchmarks-for-evaluation)
+### 📖 Contents
+- [🚀 General Works](#-general-works)
+- [📺 Streaming Videos](#-streaming-videos)
+- [💡 Interesting Works](#-interesting-works)
+- [📊 Evaluation](#-benchmarks-for-evaluation)
 ---
 
 <!-- |![Star](https://img.shields.io/github/stars/xxx.svg?style=social&label=Star) <br> |-|-| [Github]() | - | -->
@@ -49,7 +49,7 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 |![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star) <br> [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424)|ACL|2023-06| [Github](https://github.com/mbzuai-oryx/Video-ChatGPT) | 100 |
 |![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star) <br> [**VALLEY: Video Assistant with Large Language model Enhanced ability**](https://arxiv.org/abs/2306.07207)|arXiv|2023-06| [Github](https://github.com/RupertLuo/Valley) | 0.5FPS |
 |![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star) <br> [**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858)|EMNLP|2023-06| [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 8 |
-|![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star) <br> [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355) |arXiv|2023-05| [Github](https://github.com/OpenGVLab/Ask-Anything) | 4~32 |
+|![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star) <br> [**VideoChat: Chat-Centric Video Understanding**](httpshttps://arxiv.org/abs/2305.06355) |arXiv|2023-05| [Github](https://github.com/OpenGVLab/Ask-Anything) | 4~32 |
 |![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) <br> [**LLaMA-Adapter: Efficient Fine-tuning of LLaMA**](https://arxiv.org/pdf/2303.16199) |ICLR|2023-03| [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | - |
 
 #### Streaming Videos
@@ -72,7 +72,7 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 ### Benchmarks for Evaluation
 #### General
 ##### [:bar_chart: Opencomprass Leaderboard](https://huggingface.co/spaces/opencompass/openvlm_video_leaderboard)
-<!-- |![Star](https://img.shields.io/github/stars/xxx.svg?style=social&label=Star) <br> |-|-| [Github]() | -->
+<!-- |![Star](https://img.shields.io/github/stars/xxx.svg?style=social&label=Star) <br> |-|-| [Github]() | - | -->
 |  Title  |   Venue  |   Date   |   Repo   | LeaderBoard|
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star) <br> [**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/abs/2311.17005)|-|2023-12| [Github](https://github.com/OpenGVLab/Ask-Anything) |-|
